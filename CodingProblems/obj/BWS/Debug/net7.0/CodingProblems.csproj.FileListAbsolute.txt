@@ -1,0 +1,14 @@
+F:\Sergio\Studies\CodingProblems\CodingProblems\bin\BWS\Debug\net7.0\CodingProblems.exe
+F:\Sergio\Studies\CodingProblems\CodingProblems\bin\BWS\Debug\net7.0\CodingProblems.deps.json
+F:\Sergio\Studies\CodingProblems\CodingProblems\bin\BWS\Debug\net7.0\CodingProblems.runtimeconfig.json
+F:\Sergio\Studies\CodingProblems\CodingProblems\bin\BWS\Debug\net7.0\CodingProblems.dll
+F:\Sergio\Studies\CodingProblems\CodingProblems\bin\BWS\Debug\net7.0\CodingProblems.pdb
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\CodingProblems.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\CodingProblems.AssemblyInfoInputs.cache
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\CodingProblems.AssemblyInfo.cs
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\CodingProblems.csproj.CoreCompileInputs.cache
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\CodingProblems.dll
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\refint\CodingProblems.dll
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\CodingProblems.pdb
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\CodingProblems.genruntimeconfig.cache
+F:\Sergio\Studies\CodingProblems\CodingProblems\obj\BWS\Debug\net7.0\ref\CodingProblems.dll
