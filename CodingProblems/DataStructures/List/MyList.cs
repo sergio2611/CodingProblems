@@ -8,19 +8,36 @@ public class MyList<T>{
 
     public MyList()
     {
-        array = new T[10]; // Initial size of the array (you can adjust as needed)
+        array = new T[5]; // Initial size of the array (you can adjust as needed)
         count = 0;
+    }
+
+    public void ResizeArray()
+    {
+        Console.WriteLine("im here");
+        var newcount = count*2;
+        T[] array2 = new T[newcount];
+        for(int i = 0 ; i < array.Length; i ++)
+        {
+            array2[i] = array[i];
+            Console.WriteLine("position " + i);
+        }     
+        array = array2;        
+    }
+
+    public void MyListStats()
+    {
+        Console.WriteLine("count is :" + count + ", array lenght : " + array.Length);
     }
 
     public void AddItem(T item)
     {
-        if(count == array.Length){}
-         //resize array
-         else
-         {
-            count++;
+        if(count == array.Length){
+            ResizeArray();
+        }     
             array[count] = item;
-         }
+            count++;
+         
     }
 
     public void RemoveItem(T item)
